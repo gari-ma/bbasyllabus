@@ -1,0 +1,196 @@
+{
+  "syllabus": {
+    "first_semester": {
+      "subjects": [
+        {
+          "subject_name": "Principles of Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf"
+        },
+        {
+          "subject_name": "Business Mathematics",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf"
+        },
+        {
+          "subject_name": "Microeconomics",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf"
+        },
+        {
+          "subject_name": "Business Communication",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf"
+        },
+        {
+          "subject_name": "Financial Accounting I",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf"
+        }
+      ]
+    },
+    "second_semester": {
+      "subjects": [
+        {
+          "subject_name": "Business Statistics",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf"
+        },
+        {
+          "subject_name": "Macroeconomics",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf"
+        },
+        {
+          "subject_name": "Fundamentals of Marketing",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf"
+        },
+        {
+          "subject_name": "Business Law",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf"
+        },
+        {
+          "subject_name": "Financial Accounting II",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf"
+        }
+      ]
+    },
+    "third_semester": {
+      "subjects": [
+        {
+          "subject_name": "Organizational Behavior",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Business Finance",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Business Environment",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Cost and Management Accounting",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Fundamentals of Human Resource Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf"
+        }
+      ]
+    },
+    "fourth_semester": {
+      "subjects": [
+        {
+          "subject_name": "Production and Operations Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Taxation and Auditing",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Fundamentals of Entrepreneurship",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Business Research Methods",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf"
+        },
+        {
+          "subject_name": "Management Information System",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf"
+        }
+      ]
+    },
+    "fifth_semester": {
+      "subjects": [
+        {
+          "subject_name": "Strategic Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf"
+        },
+        {
+          "subject_name": "Business Ethics and Social Responsibility",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf"
+        },
+        {
+          "subject_name": "International Business",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf"
+        },
+        {
+          "subject_name": "Supply Chain Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf"
+        },
+        {
+          "subject_name": "Elective Subject",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf"
+        }
+      ]
+    },
+    "sixth_semester": {
+      "subjects": [
+        {
+          "subject_name": "Business Policy and Strategy",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%206th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Project Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%206th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Investment Analysis and Portfolio Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%206th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Organizational Development and Change",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%206th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Elective Subject",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%206th%20Semester%20Syllabus%202016.pdf"
+        }
+      ]
+    },
+    "seventh_semester": {
+      "subjects": [
+        {
+          "subject_name": "Entrepreneurship and Enterprise Development",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%207th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Business Environment and Strategy",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%207th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "International Business",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%207th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Managerial Finance",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%207th%20Semester%20Syllabus%202016.pdf"
+        },
+        {
+          "subject_name": "Elective Subject",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%207th%20Semester%20Syllabus%202016.pdf"
+        }
+      ]
+    },
+    "eighth_semester": {
+      "subjects": [
+        {
+          "subject_name": "Supply Chain Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%208th%20Semester%20Syllabus%202017.pdf"
+        },
+        {
+          "subject_name": "Strategic Management",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%208th%20Semester%20Syllabus%202017.pdf"
+        },
+        {
+          "subject_name": "International Marketing",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%208th%20Semester%20Syllabus%202017.pdf"
+        },
+        {
+          "subject_name": "Business Research Project",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%208th%20Semester%20Syllabus%202017.pdf"
+        },
+        {
+          "subject_name": "Elective Subject",
+          "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%208th%20Semester%20Syllabus%202017.pdf"
+        }
+      ]
+    }
+  }
+}
