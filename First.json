@@ -1,0 +1,152 @@
+"subjects": [
+    {
+      "subject_code": "MGT101",
+      "subject_name": "Principles of Management",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Management",
+          "pdf": "https://example.com/mgt101_chapter1.pdf",
+          "subtitle": "Basic concepts and theories of management"
+        },
+        {
+          "chapter_name": "Planning",
+          "pdf": "https://example.com/mgt101_chapter2.pdf",
+          "subtitle": "Process and importance of planning"
+        },
+        {
+          "chapter_name": "Organizing",
+          "pdf": "https://example.com/mgt101_chapter3.pdf",
+          "subtitle": "Organizational structure and design"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "2075 Old Question",
+          "pdf": "https://example.com/mgt101_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Previous Year Questions - Principles of Management",
+          "pdf": "https://example.com/mgt101_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT103",
+      "subject_name": "Business Mathematics",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf",
+      "notes": [
+        {
+          "chapter_name": "Basic Arithmetic",
+          "pdf": "https://example.com/mgt103_chapter1.pdf",
+          "subtitle": "Operations with numbers, fractions, and decimals"
+        },
+        {
+          "chapter_name": "Algebra",
+          "pdf": "https://example.com/mgt103_chapter2.pdf",
+          "subtitle": "Solving equations and inequalities"
+        },
+        {
+          "chapter_name": "Linear Equations",
+          "pdf": "https://example.com/mgt103_chapter3.pdf",
+          "subtitle": "Graphing and solving linear equations"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Previous Year Questions - Business Mathematics",
+          "pdf": "https://example.com/mgt103_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT105",
+      "subject_name": "Microeconomics",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Microeconomics",
+          "pdf": "https://example.com/mgt105_chapter1.pdf",
+          "subtitle": "Basic economic concepts and principles"
+        },
+        {
+          "chapter_name": "Supply and Demand",
+          "pdf": "https://example.com/mgt105_chapter2.pdf",
+          "subtitle": "Theory of supply and demand"
+        },
+        {
+          "chapter_name": "Consumer Behavior",
+          "pdf": "https://example.com/mgt105_chapter3.pdf",
+          "subtitle": "Theories of consumer choice"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Previous Year Questions - Microeconomics",
+          "pdf": "https://example.com/mgt105_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT107",
+      "subject_name": "Business Communication",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Business Communication",
+          "pdf": "https://example.com/mgt107_chapter1.pdf",
+          "subtitle": "Overview of communication process"
+        },
+        {
+          "chapter_name": "Written Communication",
+          "pdf": "https://example.com/mgt107_chapter2.pdf",
+          "subtitle": "Effective writing techniques"
+        },
+        {
+          "chapter_name": "Verbal Communication",
+          "pdf": "https://example.com/mgt107_chapter3.pdf",
+          "subtitle": "Speaking skills and strategies"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Previous Year Questions - Business Communication",
+          "pdf": "https://example.com/mgt107_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT109",
+      "subject_name": "Financial Accounting I",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%201st%20Semester%20Syllabus.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Financial Accounting",
+          "pdf": "https://example.com/mgt109_chapter1.pdf",
+          "subtitle": "Basic accounting principles and concepts"
+        },
+        {
+          "chapter_name": "Recording Transactions",
+          "pdf": "https://example.com/mgt109_chapter2.pdf",
+          "subtitle": "Journalizing and posting transactions"
+        },
+        {
+          "chapter_name": "Preparation of Financial Statements",
+          "pdf": "https://example.com/mgt109_chapter3.pdf",
+          "subtitle": "Income statement, balance sheet, and statement of cash flows"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Previous Year Questions - Financial Accounting I",
+          "pdf": "https://example.com/mgt109_old_questions.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    }
+]
