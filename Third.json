@@ -1,0 +1,200 @@
+{
+  "subjects": [
+    {
+      "subject_code": "MGT205",
+      "subject_name": "Organizational Behavior",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Organizational Behavior",
+          "pdf": "https://example.com/mgt205_chapter1.pdf",
+          "subtitle": "Basic concepts and theories of organizational behavior"
+        },
+        {
+          "chapter_name": "Individual Behavior",
+          "pdf": "https://example.com/mgt205_chapter2.pdf",
+          "subtitle": "Understanding individual behavior in organizations"
+        },
+        {
+          "chapter_name": "Group Behavior",
+          "pdf": "https://example.com/mgt205_chapter3.pdf",
+          "subtitle": "Group dynamics and teamwork"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt205_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt205_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt205_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt205_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt205_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT207",
+      "subject_name": "Business Finance",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Business Finance",
+          "pdf": "https://example.com/mgt207_chapter1.pdf",
+          "subtitle": "Basic financial concepts and principles"
+        },
+        {
+          "chapter_name": "Financial Statement Analysis",
+          "pdf": "https://example.com/mgt207_chapter2.pdf",
+          "subtitle": "Analyzing financial statements"
+        },
+        {
+          "chapter_name": "Capital Budgeting",
+          "pdf": "https://example.com/mgt207_chapter3.pdf",
+          "subtitle": "Techniques for evaluating investment projects"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt207_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt207_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt207_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt207_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt207_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT209",
+      "subject_name": "Business Environment",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Business Environment",
+          "pdf": "https://example.com/mgt209_chapter1.pdf",
+          "subtitle": "Understanding the business environment"
+        },
+        {
+          "chapter_name": "Economic Environment",
+          "pdf": "https://example.com/mgt209_chapter2.pdf",
+          "subtitle": "Impact of economic factors on business"
+        },
+        {
+          "chapter_name": "Social and Cultural Environment",
+          "pdf": "https://example.com/mgt209_chapter3.pdf",
+          "subtitle": "Influence of social and cultural factors on business"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt209_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt209_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt209_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt209_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt209_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT211",
+      "subject_name": "Cost and Management Accounting",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%203rd%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Cost Concepts and Classification",
+          "pdf": "https://example.com/mgt211_chapter1.pdf",
+          "subtitle": "Understanding cost terminology"
+        },
+        {
+          "chapter_name": "Cost-Volume-Profit Analysis",
+          "pdf": "https://example.com/mgt211_chapter2.pdf",
+          "subtitle": "Analyzing cost-volume-profit relationships"
+        },
+        {
+          "chapter_name": "Budgeting and Variance Analysis",
+          "pdf": "https://example.com/mgt211_chapter3.pdf",
+          "subtitle": "Preparing budgets and analyzing variances"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt211_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt211_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt211_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt211_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt211_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    }
+  ]
+}
