@@ -1,4 +1,5 @@
-"subjects": [
+{
+  "subjects": [
     {
       "subject_code": "MGT101",
       "subject_name": "Principles of Management",
@@ -150,3 +151,4 @@
       ]
     }
 ]
+}
