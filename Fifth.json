@@ -1,0 +1,149 @@
+{
+  "subjects": [
+    {
+      "subject_code": "MGT401",
+      "subject_name": "Strategic Management",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Strategic Management",
+          "pdf": "https://example.com/mgt401_chapter1.pdf",
+          "subtitle": "Overview of strategic management"
+        },
+        {
+          "chapter_name": "Formulating Strategy",
+          "pdf": "https://example.com/mgt401_chapter2.pdf",
+          "subtitle": "Process of formulating business strategy"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt401_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt401_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT403",
+      "subject_name": "Business Ethics and Social Responsibility",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf",
+      "notes": [
+        {
+          "chapter_name": "Ethical Theories",
+          "pdf": "https://example.com/mgt403_chapter1.pdf",
+          "subtitle": "Different ethical frameworks"
+        },
+        {
+          "chapter_name": "Corporate Social Responsibility",
+          "pdf": "https://example.com/mgt403_chapter2.pdf",
+          "subtitle": "Business responsibilities towards society"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt403_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt403_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT405",
+      "subject_name": "International Business",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf",
+      "notes": [
+        {
+          "chapter_name": "Globalization",
+          "pdf": "https://example.com/mgt405_chapter1.pdf",
+          "subtitle": "Understanding global markets"
+        },
+        {
+          "chapter_name": "International Trade",
+          "pdf": "https://example.com/mgt405_chapter2.pdf",
+          "subtitle": "Principles of international trade"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt405_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt405_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT407",
+      "subject_name": "Supply Chain Management",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf",
+      "notes": [
+        {
+          "chapter_name": "Supply Chain Fundamentals",
+          "pdf": "https://example.com/mgt407_chapter1.pdf",
+          "subtitle": "Basic concepts of supply chain management"
+        },
+        {
+          "chapter_name": "Logistics Management",
+          "pdf": "https://example.com/mgt407_chapter2.pdf",
+          "subtitle": "Managing logistics in supply chains"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt407_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt407_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT409",
+      "subject_name": "Elective Subject",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%205th%20Sem%20Syllabus%202015.pdf",
+      "notes": [
+        {
+          "chapter_name": "Elective Topic 1",
+          "pdf": "https://example.com/mgt409_chapter1.pdf",
+          "subtitle": "Introduction to elective topic 1"
+        },
+        {
+          "chapter_name": "Elective Topic 2",
+          "pdf": "https://example.com/mgt409_chapter2.pdf",
+          "subtitle": "Introduction to elective topic 2"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt409_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt409_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    }
+  ]
+}
