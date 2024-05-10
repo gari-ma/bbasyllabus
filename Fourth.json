@@ -1,0 +1,149 @@
+{
+  "subjects": [
+    {
+      "subject_code": "MGT301",
+      "subject_name": "Production and Operations Management",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Production and Operations Management",
+          "pdf": "https://example.com/mgt301_chapter1.pdf",
+          "subtitle": "Basic concepts and principles"
+        },
+        {
+          "chapter_name": "Operations Strategy",
+          "pdf": "https://example.com/mgt301_chapter2.pdf",
+          "subtitle": "Planning and decision-making in operations"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt301_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt301_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT303",
+      "subject_name": "Taxation and Auditing",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Taxation",
+          "pdf": "https://example.com/mgt303_chapter1.pdf",
+          "subtitle": "Basic tax principles"
+        },
+        {
+          "chapter_name": "Auditing Fundamentals",
+          "pdf": "https://example.com/mgt303_chapter2.pdf",
+          "subtitle": "Understanding auditing procedures"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt303_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt303_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT305",
+      "subject_name": "Fundamentals of Entrepreneurship",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Entrepreneurship Basics",
+          "pdf": "https://example.com/mgt305_chapter1.pdf",
+          "subtitle": "Introduction to entrepreneurship"
+        },
+        {
+          "chapter_name": "Business Planning",
+          "pdf": "https://example.com/mgt305_chapter2.pdf",
+          "subtitle": "Creating effective business plans"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt305_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt305_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT307",
+      "subject_name": "Business Research Methods",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Research Design",
+          "pdf": "https://example.com/mgt307_chapter1.pdf",
+          "subtitle": "Planning research projects"
+        },
+        {
+          "chapter_name": "Data Collection Methods",
+          "pdf": "https://example.com/mgt307_chapter2.pdf",
+          "subtitle": "Methods for gathering data"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt307_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt307_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT309",
+      "subject_name": "Management Information System",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%20Revised%20Structure%20with%204th%20Semester%20Syllabus%202023.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Management Information Systems",
+          "pdf": "https://example.com/mgt309_chapter1.pdf",
+          "subtitle": "Basic concepts and components"
+        },
+        {
+          "chapter_name": "Database Management Systems",
+          "pdf": "https://example.com/mgt309_chapter2.pdf",
+          "subtitle": "Understanding database management"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2076",
+          "pdf": "https://example.com/mgt309_old_questions_2076.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt309_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    }
+  ]
+}
