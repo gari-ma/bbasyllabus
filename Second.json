@@ -1,150 +1,249 @@
- {
-    "subjects": [
-      {
-        "subject_code": "MGT111",
-        "subject_name": "Business Statistics",
-        "syllabus_pdf": "https://example.com/mgt111.pdf",
-        "notes": [
-          {
-            "chapter_name": "Descriptive Statistics",
-            "pdf": "https://example.com/mgt111_descriptive_statistics.pdf",
-            "subtitle": "Measures of central tendency and dispersion"
-          },
-          {
-            "chapter_name": "Probability Distributions",
-            "pdf": "https://example.com/mgt111_probability_distributions.pdf",
-            "subtitle": "Discrete and continuous probability distributions"
-          }
-        ],
-        "old_questions": [
-          {
-            "year": "2023",
-            "pdf": "https://example.com/mgt111_old_questions_2023.pdf",
-            "subtitle": "Past exam questions for revision"
-          },
-          {
-            "year": "2022",
-            "pdf": "https://example.com/mgt111_old_questions_2022.pdf",
-            "subtitle": "Past exam questions for revision"
-          }
-        ]
-      },
-      {
-        "subject_code": "MGT113",
-        "subject_name": "Macroeconomics",
-        "syllabus_pdf": "https://example.com/mgt113.pdf",
-        "notes": [
-          {
-            "chapter_name": "Introduction to Macroeconomics",
-            "pdf": "https://example.com/mgt113_intro_to_macro.pdf",
-            "subtitle": "Basic macroeconomic concepts and measures"
-          },
-          {
-            "chapter_name": "Aggregate Demand and Supply",
-            "pdf": "https://example.com/mgt113_aggregate_demand_supply.pdf",
-            "subtitle": "Components of aggregate demand and supply"
-          }
-        ],
-        "old_questions": [
-          {
-            "year": "2023",
-            "pdf": "https://example.com/mgt113_old_questions_2023.pdf",
-            "subtitle": "Past exam questions for revision"
-          },
-          {
-            "year": "2022",
-            "pdf": "https://example.com/mgt113_old_questions_2022.pdf",
-            "subtitle": "Past exam questions for revision"
-          }
-        ]
-      },
-      {
-        "subject_code": "MGT115",
-        "subject_name": "Fundamentals of Marketing",
-        "syllabus_pdf": "https://example.com/mgt115.pdf",
-        "notes": [
-          {
-            "chapter_name": "Introduction to Marketing",
-            "pdf": "https://example.com/mgt115_intro_to_marketing.pdf",
-            "subtitle": "Overview of marketing concepts"
-          },
-          {
-            "chapter_name": "Market Segmentation and Targeting",
-            "pdf": "https://example.com/mgt115_market_segmentation.pdf",
-            "subtitle": "Identifying and targeting market segments"
-          }
-        ],
-        "old_questions": [
-          {
-            "year": "2023",
-            "pdf": "https://example.com/mgt115_old_questions_2023.pdf",
-            "subtitle": "Past exam questions for revision"
-          },
-          {
-            "year": "2022",
-            "pdf": "https://example.com/mgt115_old_questions_2022.pdf",
-            "subtitle": "Past exam questions for revision"
-          }
-        ]
-      },
-      {
-        "subject_code": "MGT117",
-        "subject_name": "Business Law",
-        "syllabus_pdf": "https://example.com/mgt117.pdf",
-        "notes": [
-          {
-            "chapter_name": "Introduction to Business Law",
-            "pdf": "https://example.com/mgt117_intro_to_business_law.pdf",
-            "subtitle": "Basic concepts and principles of business law"
-          },
-          {
-            "chapter_name": "Contracts",
-            "pdf": "https://example.com/mgt117_contracts.pdf",
-            "subtitle": "Understanding contract law"
-          }
-        ],
-        "old_questions": [
-          {
-            "year": "2023",
-            "pdf": "https://example.com/mgt117_old_questions_2023.pdf",
-            "subtitle": "Past exam questions for revision"
-          },
-          {
-            "year": "2022",
-            "pdf": "https://example.com/mgt117_old_questions_2022.pdf",
-            "subtitle": "Past exam questions for revision"
-          }
-        ]
-      },
-      {
-        "subject_code": "MGT119",
-        "subject_name": "Financial Accounting II",
-        "syllabus_pdf": "https://example.com/mgt119.pdf",
-        "notes": [
-          {
-            "chapter_name": "Inventory Valuation",
-            "pdf": "https://example.com/mgt119_inventory_valuation.pdf",
-            "subtitle": "Methods of inventory valuation"
-          },
-          {
-            "chapter_name": "Fixed Assets and Depreciation",
-            "pdf": "https://example.com/mgt119_fixed_assets_depreciation.pdf",
-            "subtitle": "Accounting for fixed assets and depreciation"
-          }
-        ],
-        "old_questions": [
-          {
-            "year": "2023",
-            "pdf": "https://example.com/mgt119_old_questions_2023.pdf",
-            "subtitle": "Past exam questions for revision"
-          },
-          {
-            "year": "2022",
-            "pdf": "https://example.com/mgt119_old_questions_2022.pdf",
-            "subtitle": "Past exam questions for revision"
-          }
-        ]
-      }
-    ]
-  }
-
+{
+  "subjects": [
+    {
+      "subject_code": "MGT111",
+      "subject_name": "Business Statistics",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf",
+      "notes": [
+        {
+          "chapter_name": "Descriptive Statistics",
+          "pdf": "https://example.com/mgt111_chapter1.pdf",
+          "subtitle": "Measures of central tendency and dispersion"
+        },
+        {
+          "chapter_name": "Probability",
+          "pdf": "https://example.com/mgt111_chapter2.pdf",
+          "subtitle": "Basic concepts of probability"
+        },
+        {
+          "chapter_name": "Sampling Distributions",
+          "pdf": "https://example.com/mgt111_chapter3.pdf",
+          "subtitle": "Sampling distribution of the mean and proportion"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt111_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt111_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt111_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt111_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2071",
+          "pdf": "https://example.com/mgt111_old_questions_2071.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT113",
+      "subject_name": "Macroeconomics",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Macroeconomics",
+          "pdf": "https://example.com/mgt113_chapter1.pdf",
+          "subtitle": "Basic macroeconomic concepts"
+        },
+        {
+          "chapter_name": "National Income Accounting",
+          "pdf": "https://example.com/mgt113_chapter2.pdf",
+          "subtitle": "Measurement of national income"
+        },
+        {
+          "chapter_name": "Money and Banking",
+          "pdf": "https://example.com/mgt113_chapter3.pdf",
+          "subtitle": "Functions of money, banking system"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt113_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt113_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt113_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt113_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2071",
+          "pdf": "https://example.com/mgt113_old_questions_2071.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT115",
+      "subject_name": "Fundamentals of Marketing",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Marketing",
+          "pdf": "https://example.com/mgt115_chapter1.pdf",
+          "subtitle": "Basic marketing concepts"
+        },
+        {
+          "chapter_name": "Marketing Mix",
+          "pdf": "https://example.com/mgt115_chapter2.pdf",
+          "subtitle": "Product, price, place, promotion"
+        },
+        {
+          "chapter_name": "Consumer Behavior",
+          "pdf": "https://example.com/mgt115_chapter3.pdf",
+          "subtitle": "Understanding consumer decision-making"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt115_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt115_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt115_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt115_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2071",
+          "pdf": "https://example.com/mgt115_old_questions_2071.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT117",
+      "subject_name": "Business Law",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf",
+      "notes": [
+        {
+          "chapter_name": "Introduction to Business Law",
+          "pdf": "https://example.com/mgt117_chapter1.pdf",
+          "subtitle": "Basic legal concepts and principles"
+        },
+        {
+          "chapter_name": "Contracts",
+          "pdf": "https://example.com/mgt117_chapter2.pdf",
+          "subtitle": "Formation and enforcement of contracts"
+        },
+        {
+          "chapter_name": "Business Entities",
+          "pdf": "https://example.com/mgt117_chapter3.pdf",
+          "subtitle": "Different types of business entities"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt117_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt117_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt117_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt117_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2071",
+          "pdf": "https://example.com/mgt117_old_questions_2071.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    },
+    {
+      "subject_code": "MGT119",
+      "subject_name": "Financial Accounting II",
+      "syllabus_pdf": "https://www.fomecd.edu.np/cms/syllabuses/BBA%202nd%20Semester%20Syllabus%202022.pdf",
+      "notes": [
+        {
+          "chapter_name": "Inventory Valuation",
+          "pdf": "https://example.com/mgt119_chapter1.pdf",
+          "subtitle": "Methods of inventory valuation"
+        },
+        {
+          "chapter_name": "Fixed Assets and Depreciation",
+          "pdf": "https://example.com/mgt119_chapter2.pdf",
+          "subtitle": "Accounting treatment of fixed assets"
+        },
+        {
+          "chapter_name": "Financial Statement Analysis",
+          "pdf": "https://example.com/mgt119_chapter3.pdf",
+          "subtitle": "Techniques for analyzing financial statements"
+        }
+      ],
+      "old_questions": [
+        {
+          "title": "Old Questions 2075",
+          "pdf": "https://example.com/mgt119_old_questions_2075.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2074",
+          "pdf": "https://example.com/mgt119_old_questions_2074.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2073",
+          "pdf": "https://example.com/mgt119_old_questions_2073.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2072",
+          "pdf": "https://example.com/mgt119_old_questions_2072.pdf",
+          "subtitle": "Past exam questions for revision"
+        },
+        {
+          "title": "Old Questions 2071",
+          "pdf": "https://example.com/mgt119_old_questions_2071.pdf",
+          "subtitle": "Past exam questions for revision"
+        }
+      ]
+    }
+  ]
+}
