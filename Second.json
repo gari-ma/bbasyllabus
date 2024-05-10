@@ -1,0 +1,151 @@
+{
+  "second_semester": {
+    "subjects": [
+      {
+        "subject_code": "MGT111",
+        "subject_name": "Business Statistics",
+        "syllabus_pdf": "https://example.com/mgt111.pdf",
+        "notes": [
+          {
+            "chapter_name": "Descriptive Statistics",
+            "pdf": "https://example.com/mgt111_descriptive_statistics.pdf",
+            "subtitle": "Measures of central tendency and dispersion"
+          },
+          {
+            "chapter_name": "Probability Distributions",
+            "pdf": "https://example.com/mgt111_probability_distributions.pdf",
+            "subtitle": "Discrete and continuous probability distributions"
+          }
+        ],
+        "old_questions": [
+          {
+            "year": "2023",
+            "pdf": "https://example.com/mgt111_old_questions_2023.pdf",
+            "subtitle": "Past exam questions for revision"
+          },
+          {
+            "year": "2022",
+            "pdf": "https://example.com/mgt111_old_questions_2022.pdf",
+            "subtitle": "Past exam questions for revision"
+          }
+        ]
+      },
+      {
+        "subject_code": "MGT113",
+        "subject_name": "Macroeconomics",
+        "syllabus_pdf": "https://example.com/mgt113.pdf",
+        "notes": [
+          {
+            "chapter_name": "Introduction to Macroeconomics",
+            "pdf": "https://example.com/mgt113_intro_to_macro.pdf",
+            "subtitle": "Basic macroeconomic concepts and measures"
+          },
+          {
+            "chapter_name": "Aggregate Demand and Supply",
+            "pdf": "https://example.com/mgt113_aggregate_demand_supply.pdf",
+            "subtitle": "Components of aggregate demand and supply"
+          }
+        ],
+        "old_questions": [
+          {
+            "year": "2023",
+            "pdf": "https://example.com/mgt113_old_questions_2023.pdf",
+            "subtitle": "Past exam questions for revision"
+          },
+          {
+            "year": "2022",
+            "pdf": "https://example.com/mgt113_old_questions_2022.pdf",
+            "subtitle": "Past exam questions for revision"
+          }
+        ]
+      },
+      {
+        "subject_code": "MGT115",
+        "subject_name": "Fundamentals of Marketing",
+        "syllabus_pdf": "https://example.com/mgt115.pdf",
+        "notes": [
+          {
+            "chapter_name": "Introduction to Marketing",
+            "pdf": "https://example.com/mgt115_intro_to_marketing.pdf",
+            "subtitle": "Overview of marketing concepts"
+          },
+          {
+            "chapter_name": "Market Segmentation and Targeting",
+            "pdf": "https://example.com/mgt115_market_segmentation.pdf",
+            "subtitle": "Identifying and targeting market segments"
+          }
+        ],
+        "old_questions": [
+          {
+            "year": "2023",
+            "pdf": "https://example.com/mgt115_old_questions_2023.pdf",
+            "subtitle": "Past exam questions for revision"
+          },
+          {
+            "year": "2022",
+            "pdf": "https://example.com/mgt115_old_questions_2022.pdf",
+            "subtitle": "Past exam questions for revision"
+          }
+        ]
+      },
+      {
+        "subject_code": "MGT117",
+        "subject_name": "Business Law",
+        "syllabus_pdf": "https://example.com/mgt117.pdf",
+        "notes": [
+          {
+            "chapter_name": "Introduction to Business Law",
+            "pdf": "https://example.com/mgt117_intro_to_business_law.pdf",
+            "subtitle": "Basic concepts and principles of business law"
+          },
+          {
+            "chapter_name": "Contracts",
+            "pdf": "https://example.com/mgt117_contracts.pdf",
+            "subtitle": "Understanding contract law"
+          }
+        ],
+        "old_questions": [
+          {
+            "year": "2023",
+            "pdf": "https://example.com/mgt117_old_questions_2023.pdf",
+            "subtitle": "Past exam questions for revision"
+          },
+          {
+            "year": "2022",
+            "pdf": "https://example.com/mgt117_old_questions_2022.pdf",
+            "subtitle": "Past exam questions for revision"
+          }
+        ]
+      },
+      {
+        "subject_code": "MGT119",
+        "subject_name": "Financial Accounting II",
+        "syllabus_pdf": "https://example.com/mgt119.pdf",
+        "notes": [
+          {
+            "chapter_name": "Inventory Valuation",
+            "pdf": "https://example.com/mgt119_inventory_valuation.pdf",
+            "subtitle": "Methods of inventory valuation"
+          },
+          {
+            "chapter_name": "Fixed Assets and Depreciation",
+            "pdf": "https://example.com/mgt119_fixed_assets_depreciation.pdf",
+            "subtitle": "Accounting for fixed assets and depreciation"
+          }
+        ],
+        "old_questions": [
+          {
+            "year": "2023",
+            "pdf": "https://example.com/mgt119_old_questions_2023.pdf",
+            "subtitle": "Past exam questions for revision"
+          },
+          {
+            "year": "2022",
+            "pdf": "https://example.com/mgt119_old_questions_2022.pdf",
+            "subtitle": "Past exam questions for revision"
+          }
+        ]
+      }
+    ]
+  }
+}
